@@ -1,3 +1,1 @@
-
-
-Calls an internal API endpoint on core product to get user information based on the email address and display it on the same page as the user's ticket in zendesk
+Widget built on Zendesk API. When a user opens a support ticket in Zendesk, API is triggered to make a request to fetch user meta data from another application. The response is then displayed on the same page as the support ticket (Zendesk).
